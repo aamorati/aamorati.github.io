@@ -1,0 +1,23 @@
+html {background-color:beige; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+	
+h1 {color:darkred; text-align:center;}
+h2 {color:chocolate; clear:both;}
+	
+body {padding:1em;}
+p, ul, li {margin-top:0; margin-bottom:0;}
+	
+.emphasis {color:darkred;}
+.exp {text-indent:1.5em;}
+
+nav {}
+	nav ul {margin:0; padding:0; list-style:none;}
+	nav li {float:left;}
+	nav a {display:block; padding:1em; border:1px solid darkred; margin:1em;}
+
+a:link {color:coral;}
+a:visited {color:firebrick;}
+a:focus {color:darkred; background-color:white}
+a:hover {color:darkred; background-color:white}
+a:active {color:firebrick;}
+	
+footer {font-size:.75em}
